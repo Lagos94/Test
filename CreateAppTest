@@ -1,0 +1,28 @@
+Create an app in react-native that allows you to search for restaurants in New York and New Jersey area.
+
+Use Ignite framework from here : https://github.com/infinitered/ignite
+For design inspiration :  look up the app called "Eatigo" or "Zomato"
+For api                :  https://developers.zomato.com/api#
+                          https://developers.zomato.com/documentation
+                          
+For app control flow & screen: https://i.imgur.com/LIzuaj7.png
+
+Notes:
+- Ignite framework comes with a lot of stuff, make sure you delete the unnecessary codes before you submit [screens, 
+extra redux, saga etc ]
+
+Mandatory Features:
+- Unit testing : integration of Jest [ Test Runner ] , Enzyme [ Container UI Test ] , Storybook [ Component UI Test ] ,
+redux-saga-tester ( https://github.com/wix/redux-saga-tester ) [ Business Logic and Integration Test]
+- Clean , readable code , functions ( specially in saga ) must be commented
+
+Deliverables:
+    - Git hub link to source code
+    - Instructions on
+             - how to build app in xcode
+             - how to run tests
+
+Once completed we can get in a call with our senior engineers to review the code and get started. Thanks again.
+https://developers.zomato.com/api
+https://developers.zomato.com/documentation
+https://github.com/wix/redux-saga-tester
